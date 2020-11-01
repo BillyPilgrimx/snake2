@@ -1,0 +1,15 @@
+label {
+  width:200px;
+  font-size: 18;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  display: inline-block;
+}
+
+span {
+  margin: 0;
+  display: flex;
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+  /* This centers our sketch vertically. */
+  align-items: center;
+}
